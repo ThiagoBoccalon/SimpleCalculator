@@ -2,7 +2,7 @@
 This is a project of a simple Calculator in .NET MAUI
 
 
-<img src="https://drive.google.com/file/d/1R7ql6HFRSMPORa14ncxESLDv1iVJrEmB/view" width="210" height="400"> 
+![ezgif com-video-to-gif](https://github.com/ThiagoBoccalon/SimpleCalculator/assets/12734382/3fa6f59d-8cb5-4fc3-b621-d874dd98b90c)
 
 
 
